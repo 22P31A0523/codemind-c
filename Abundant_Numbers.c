@@ -11,7 +11,11 @@ int main()
         }
     }
     if(s>n)
-    printf("True");
+    {
+        printf("True");
+    }
     else
-    printf("False");
+    {
+        printf("False");
+    }
 }
